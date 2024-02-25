@@ -10,6 +10,6 @@ Please make sure you add your own items to your database.
         requiredQuantity = 50, -- Required quantity of the item to create the crate
 
 ## Dependencies
-- Feather-Menu
-- Vorp_progressbar
+- Feather-Menu https://github.com/FeatherFramework/feather-menu Download release not the code!
+- Vorp_progressbar https://github.com/VORPCORE/vorp_progressbar
 
